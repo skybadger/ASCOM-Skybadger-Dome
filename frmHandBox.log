@@ -1,0 +1,8 @@
+Line 16: Class MSCommLib.MSComm of control MSComm1 was not a loaded control class.
+Line 19: The property name _ExtentX in MSComm1 is invalid.
+Line 20: The property name _ExtentY in MSComm1 is invalid.
+Line 21: The property name _Version in MSComm1 is invalid.
+Line 22: The property name CommPort in MSComm1 is invalid.
+Line 23: The property name DTREnable in MSComm1 is invalid.
+Line 24: The property name BaudRate in MSComm1 is invalid.
+Line 25: The property name InputMode in MSComm1 is invalid.

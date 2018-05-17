@@ -1,0 +1,12 @@
+modWinAPI = 132, 132, 697, 480, C
+modUsbI2cIoAPI = -18, 116, 714, 501, C
+Dome = 79, 270, 688, 637, C
+frmShow = -362, 187, 296, 543, C, 22, 22, 523, 407, C
+frmSetup = 66, 66, 675, 342, C, 96, 162, 597, 547, C
+frmHandBox = 7, 44, 616, 411, , 44, 44, 545, 429, C
+ErrorConstants = 110, 110, 719, 477, C
+Astronomy_Funcs = 88, 88, 697, 455, C
+Hardware = 29, 21, 728, 416, 
+Rotate = 44, 44, 653, 411, C
+Startup = 22, 22, 631, 389, 
+WindowsAPI = 0, 0, 609, 367, C

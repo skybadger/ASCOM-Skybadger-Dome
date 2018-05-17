@@ -1,0 +1,11 @@
+Dome = 8, 2, 711, 646, I
+ErrorConstants = 44, 44, 686, 688, C
+WindowsAPI = 8, 23, 684, 667, C
+Astronomy_Funcs = 27, -1, 705, 643, C
+frmSetup = 0, 0, 723, 644, , 232, 2, 629, 398, C
+frmHandBox = -1, -1, 708, 643, , 374, 52, 553, 449, C
+Startup = 34, 157, 756, 776, 
+Hardware = 0, 0, 717, 572, 
+frmShow = 15, 79, 703, 586, C, 34, 2, 468, 624, C
+Rotate = 66, 87, 704, 509, C
+modUsbI2cIoAPI = 217, 123, 742, 563, 
